@@ -13,14 +13,14 @@ author_profile: true
 
 ### Academic Year 2025/26
 
-**Nudging** 
-Bachelor | English | University of Innsbruck
+**Nudging**<br>
+Bachelor | English | University of Innsbruck<br>
 *Summer & Winter Semesters*
 
 ### Academic Year 2024/25
 
-**Economic Theory** 
-Master | English | University of Innsbruck
+**Economic Theory**<br>
+Master | English | University of Innsbruck<br>
 *Summer Semester*
 
 ---
@@ -29,14 +29,14 @@ Master | English | University of Innsbruck
 
 ### Academic Year 2024/25
 
-**Best practices in experiments with non-standard subjects**  
-Bachelor | English | Course: Research Methods | University of Rome Tor Vergata
+**Best practices in experiments with non-standard subjects**<br>
+Bachelor | English | Course: Research Methods | University of Rome Tor Vergata<br>
 *Summer Semester*
 
 ### Academic Year 2023/24
 
-**Behavioral Public Policies**  
-Bachelor | Italian | Course: Public Economics | University of Rome Tor Vergata
+**Behavioral Public Policies**<br>
+Bachelor | Italian | Course: Public Economics | University of Rome Tor Vergata<br>
 *Summer Semester*
 
 ---
@@ -45,26 +45,26 @@ Bachelor | Italian | Course: Public Economics | University of Rome Tor Vergata
 
 ### Academic Year 2024/25
 
-**Game Theory**
-PhD | English | University of Innsbruck
+**Game Theory**<br>
+PhD | English | University of Innsbruck<br>
 *Summer Semester*
 
-**Global Economics**
-Bachelor | English | University of Innsbruck
+**Global Economics**<br>
+Bachelor | English | University of Innsbruck<br>
 *Winter Semester*
 
 ### Academic Year 2023/24
 
-**Game Theory**
-PhD | English | University of Innsbruck
+**Game Theory**<br>
+PhD | English | University of Innsbruck<br>
 *Summer Semester*
 
-**Uncertainty and Information Economics**
-Master | Italian | LUISS Guido Carli
+**Uncertainty and Information Economics**<br>
+Master | Italian | LUISS Guido Carli<br>
 *Summer Semester*
 
-**Behavioral Economics and Consumer Decision Making**
-Master | English | LUISS Guido Carli
+**Behavioral Economics and Consumer Decision Making**<br>
+Master | English | LUISS Guido Carli<br>
 *Winter Semester*
 
 ---
