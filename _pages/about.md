@@ -18,4 +18,9 @@ My broader research agenda includes work on prosocial behavior, exploring the de
 
 I am on the job market for the 2025/26 academic year, with an expected graduation date of Summer 2026. I am available for interviews.
 
-**[Download my Job Market Paper](files/jmp.pdf)**
+<!-- **[Download my Job Market Paper](files/jmp.pdf)** -->
+
+## Upcoming Presentations
+
+* **PhD - Economics Virtual Seminar: Job Market Seminar Series**, Virtual, November 13th
+* **Women in Economics: Brown Bag Seminar Series**, Virtual, November 7th
