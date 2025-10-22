@@ -92,10 +92,8 @@ Master | English | LUISS Guido Carli<br>
 
 <h3>Lecturer</h3>
 
-<h4>University of Rome Tor Vergata</h4>
-
 <p><strong>Behavioral Public Policies</strong><br>
-Bachelor | Italian<br>
+Bachelor | Italian | University of Rome Tor Vergata<br>
 <em>Summer 2020, Winter 2021</em></p>
 
 <h3>Teaching Assistant</h3>
@@ -103,45 +101,43 @@ Bachelor | Italian<br>
 <h4>University of Rome Tor Vergata</h4>
 
 <p><strong>Microeconomics</strong><br>
-Bachelor | Italian | Held by Gustavo Piga<br>
+Bachelor | Italian | Held by Gustavo Piga | University of Rome Tor Vergata<br>
 <em>Summer 2018, Summer 2020, Summer 2021</em></p>
 
 <p><strong>Microeconomics</strong><br>
-Bachelor | English | Held by Gustavo Piga<br>
+Bachelor | English | Held by Gustavo Piga | University of Rome Tor Vergata<br>
 <em>Summer 2020, Summer 2021</em></p>
 
 <p><strong>Game Theory</strong><br>
-Bachelor | English | Held by Bruno Chiarini<br>
+Bachelor | English | Held by Bruno Chiarini | University of Rome Tor Vergata<br>
 <em>Summer 2020, Summer 2021</em></p>
 
-<p><strong>Seminar in Experimental Economics</strong><br>
+<p><strong>Seminar in Experimental Economics | University of Rome Tor Vergata</strong><br>
 Master | Italian | Held by Luca Panaccione<br>
 <em>April-November 2020</em></p>
 
 <p><strong>Public Economics</strong><br>
-Bachelor | English | Held by Gianni De Fraja<br>
+Bachelor | English | Held by Gianni De Fraja | University of Rome Tor Vergata<br>
 <em>Summer 2020</em></p>
 
 <p><strong>Economic Policy</strong><br>
-Bachelor | Italian | Held by Mariangela Zoli<br>
+Bachelor | Italian | Held by Mariangela Zoli | University of Rome Tor Vergata<br>
 <em>Summer 2021</em></p>
 
-<h4>LUISS Guido Carli</h4>
-
 <p><strong>Microeconomics</strong><br>
-Bachelor | English | Held by Lorenzo Ferrari<br>
+Bachelor | English | Held by Lorenzo Ferrari | LUISS Guido Carli<br>
 <em>Summer 2020, Summer 2021</em></p>
 
 <p><strong>Managerial Decision Making</strong><br>
-Master | English | Held by Werner Güth and Vittorio Larocca<br>
+Master | English | Held by Werner Güth and Vittorio Larocca | LUISS Guido Carli<br>
 <em>Summer 2021</em></p>
 
 <p><strong>Microeconomics</strong><br>
-Bachelor | English | Held by Lorenzo Spadoni<br>
+Bachelor | English | Held by Lorenzo Spadoni | LUISS Guido Carli<br>
 <em>Winter 2022</em></p>
 
 <p><strong>Uncertainty and Information Economics</strong><br>
-Master | Italian | Held by Daniela Di Cagno<br>
+Master | Italian | Held by Daniela Di Cagno | LUISS Guido Carli<br>
 <em>Summer 2023</em></p>
 
 </details>
