@@ -17,20 +17,17 @@ redirect_from:
 
 ## Publications
 
-**Testing isomorphic invariance across social dilemma games**  
+**[Testing isomorphic invariance across social dilemma games](https://doi.org/10.1016/j.jebo.2024.04.024)**  
 Irene Maria Buso, Lorenzo Ferrari, Werner Güth, **Luisa Lorè**, Lorenzo Spadoni  
-*Journal of Economic Behavior & Organization*, 223, 1-20, 2024.  
-[[Available here](https://doi.org/10.1016/j.jebo.2024.04.024)] 
+*Journal of Economic Behavior & Organization*, 223, 1-20, 2024.
 
-**True to type? EU-style date marking and the valuation of perishable food**  
+**[True to type? EU-style date marking and the valuation of perishable food](https://doi.org/10.1016/j.foodpol.2022.102381)**  
 Alessio D'Amato, Timo Goeschl, **Luisa Lorè**, Mariangela Zoli  
-*Food Policy*, 114, 102381, 2023.  
-[[Available here](https://doi.org/10.1016/j.foodpol.2022.102381)] 
+*Food Policy*, 114, 102381, 2023.
 
-**Lab-like findings from online experiments**  
+**[Lab-like findings from online experiments](https://doi.org/10.1007/s40881-021-00114-8)**  
 Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa Lorè**, Francesca Marazzi, Luca Panaccione, Lorenzo Spadoni  
-*Journal of the Economic Science Association*, 7(2), 184-193, 2021.  
-[[Available here](https://doi.org/10.1007/s40881-021-00114-8)] 
+*Journal of the Economic Science Association*, 7(2), 184-193, 2021.
 
 ---
 
