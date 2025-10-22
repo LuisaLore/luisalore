@@ -3,6 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 
 <!--## Job Market Paper
@@ -17,17 +20,17 @@ author_profile: true
 **Testing isomorphic invariance across social dilemma games**  
 Irene Maria Buso, Lorenzo Ferrari, Werner Güth, **Luisa Lorè**, Lorenzo Spadoni  
 *Journal of Economic Behavior & Organization*, 223, 1-20, 2024.  
-[Available here(https://doi.org/10.1016/j.jebo.2024.04.024)]
+[[Available here](https://doi.org/10.1016/j.jebo.2024.04.024)]
 
 **True to type? EU-style date marking and the valuation of perishable food**  
 Alessio D'Amato, Timo Goeschl, **Luisa Lorè**, Mariangela Zoli  
 *Food Policy*, 114, 102381, 2023.  
-[Available here(https://doi.org/10.1016/j.foodpol.2022.102381)]
+[[Available here](https://doi.org/10.1016/j.foodpol.2022.102381)]
 
 **Lab-like findings from online experiments**  
 Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa Lorè**, Francesca Marazzi, Luca Panaccione, Lorenzo Spadoni  
 *Journal of the Economic Science Association*, 7(2), 184-193, 2021.  
-[Available here(https://doi.org/10.1007/s40881-021-00114-8)]
+[[Available here](https://doi.org/10.1007/s40881-021-00114-8)]
 
 ---
 
