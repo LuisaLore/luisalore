@@ -13,13 +13,13 @@ author_profile: true
 
 ### Academic Year 2025/26
 
-**Nudging**
-Bachelor's Course, held in English, at the University of Innsbruck  
+**Nudging** 
+Bachelor | English | University of Innsbruck  
 *Summer & Winter Semesters*
 
 ### Academic Year 2024/25
 
-**Economic Theory**
+**Economic Theory** 
 Master | English | University of Innsbruck  
 *Summer Semester*
 
@@ -30,14 +30,14 @@ Master | English | University of Innsbruck
 ### Academic Year 2024/25
 
 **Best practices in experiments with non-standard subjects**  
-Bachelor | English | Course: Research Methods | Held by Francesca Marazzi  
-University of Rome Tor Vergata | *Summer Semester*
+Bachelor | English | Course: Research Methods | University of Rome Tor Vergata
+*Summer Semester*
 
 ### Academic Year 2023/24
 
 **Behavioral Public Policies**  
-Bachelor | Italian | Course: Public Economics | Held by Mariangela Zoli  
-University of Rome Tor Vergata | *Summer Semester*
+Bachelor | Italian | Course: Public Economics | University of Rome Tor Vergata
+*Summer Semester*
 
 ---
 
@@ -45,22 +45,32 @@ University of Rome Tor Vergata | *Summer Semester*
 
 ### Academic Year 2024/25
 
-**Game Theory** | PhD | English | University of Innsbruck | *Summer Semester*
+**Game Theory**
+PhD | English | University of Innsbruck
+*Summer Semester*
 
-**Global Economics** | Bachelor | English | University of Innsbruck | *Winter Semester*
+**Global Economics**
+Bachelor | English | University of Innsbruck
+*Winter Semester*
 
 ### Academic Year 2023/24
 
-**Game Theory** | PhD | English | University of Innsbruck | *Summer Semester*
+**Game Theory**
+PhD | English | University of Innsbruck
+*Summer Semester*
 
-**Uncertainty and Information Economics** | Master | Italian | LUISS Guido Carli | *Summer Semester*
+**Uncertainty and Information Economics**
+Master | Italian | LUISS Guido Carli
+*Summer Semester*
 
-**Behavioral Economics and Consumer Decision Making** | Master | English | LUISS Guido Carli | *Winter Semester*
+**Behavioral Economics and Consumer Decision Making**
+Master | English | LUISS Guido Carli
+*Winter Semester*
 
 ---
 
 <details>
-<summary><strong>Previous Teaching Experience (click to expand)</strong></summary>
+<summary><strong>Previous Teaching Experience</strong></summary>
 
 <h3>Teaching Assistant (continued)</h3>
 
