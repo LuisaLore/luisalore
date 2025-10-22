@@ -69,55 +69,79 @@ Master | English | LUISS Guido Carli<br>
 
 ---
 
+## Classroom Experiments
+
 <details>
-<summary><strong>Previous Teaching Experience</strong></summary>
+<summary>Click to expand</summary>
 
-<h3>Teaching Assistant (continued)</h3>
+<h3>Classroom Experiments Manager</h3>
 
-<h4>Academic Year 2022/23</h4>
+<p><strong>LUISS Guido Carli</strong> | Bachelor/Master | Italian/English<br>
+<em>Winter 2020, Summer 2021, Summer 2022, Summer 2023, Summer 2024</em></p>
 
-<p><strong>Uncertainty and Information Economics</strong> | Master | Italian | LUISS Guido Carli | <em>Summer Semester</em></p>
+<p>Managed and coordinated in-class economic experiments for undergraduate and graduate courses, including setup, execution, and data analysis support.</p>
 
-<p><strong>Microeconomics</strong> | Bachelor | English | LUISS Guido Carli | <em>Winter Semester</em></p>
+</details>
 
-<h4>Academic Year 2021/22</h4>
+---
 
-<p><strong>Behavioral Public Policies</strong> | Bachelor | Italian | University of Rome Tor Vergata | <em>Winter Semester</em></p>
+## Previous Teaching Experience
 
-<h4>Academic Year 2020/21</h4>
+<details>
+<summary>Click to expand</summary>
 
-<p><strong>Economic Policy</strong> | Bachelor | Italian | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<h3>Lecturer</h3>
 
-<p><strong>Managerial Decision Making</strong> | Master | English | LUISS Guido Carli | <em>Summer Semester</em></p>
+<h4>University of Rome Tor Vergata</h4>
 
-<p><strong>Microeconomics</strong> | Bachelor | English | LUISS Guido Carli | <em>Summer Semester</em></p>
+<p><strong>Behavioral Public Policies</strong><br>
+Bachelor | Italian<br>
+<em>Summer 2020, Winter 2021</em></p>
 
-<p><strong>Microeconomics</strong> | Bachelor | Italian | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<h3>Teaching Assistant</h3>
 
-<p><strong>Microeconomics</strong> | Bachelor | English | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<h4>University of Rome Tor Vergata</h4>
 
-<p><strong>Game Theory</strong> | Bachelor | English | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<p><strong>Microeconomics</strong><br>
+Bachelor | Italian | Held by Gustavo Piga<br>
+<em>Summer 2018, Summer 2020, Summer 2021</em></p>
 
-<h4>Academic Year 2019/20</h4>
+<p><strong>Microeconomics</strong><br>
+Bachelor | English | Held by Gustavo Piga<br>
+<em>Summer 2020, Summer 2021</em></p>
 
-<p><strong>Behavioral Public Policies</strong> | Bachelor | Italian | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<p><strong>Game Theory</strong><br>
+Bachelor | English | Held by Bruno Chiarini<br>
+<em>Summer 2020, Summer 2021</em></p>
 
-<p><strong>Seminar in Experimental Economics</strong> | Master | Italian | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<p><strong>Seminar in Experimental Economics</strong><br>
+Master | Italian | Held by Luca Panaccione<br>
+<em>April-November 2020</em></p>
 
-<p><strong>Public Economics</strong> | Bachelor | English | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<p><strong>Public Economics</strong><br>
+Bachelor | English | Held by Gianni De Fraja<br>
+<em>Summer 2020</em></p>
 
-<p><strong>Microeconomics</strong> | Bachelor | English | LUISS Guido Carli | <em>Summer Semester</em></p>
+<p><strong>Economic Policy</strong><br>
+Bachelor | Italian | Held by Mariangela Zoli<br>
+<em>Summer 2021</em></p>
 
-<p><strong>Microeconomics</strong> | Bachelor | Italian | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<h4>LUISS Guido Carli</h4>
 
-<p><strong>Microeconomics</strong> | Bachelor | English | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<p><strong>Microeconomics</strong><br>
+Bachelor | English | Held by Lorenzo Ferrari<br>
+<em>Summer 2020, Summer 2021</em></p>
 
-<p><strong>Game Theory</strong> | Bachelor | English | University of Rome Tor Vergata | <em>Summer Semester</em></p>
+<p><strong>Managerial Decision Making</strong><br>
+Master | English | Held by Werner Güth and Vittorio Larocca<br>
+<em>Summer 2021</em></p>
 
-<h4>Academic Year 2017/18</h4>
+<p><strong>Microeconomics</strong><br>
+Bachelor | English | Held by Lorenzo Spadoni<br>
+<em>Winter 2022</em></p>
 
-<p><strong>Microeconomics</strong> | Bachelor | Italian | University of Rome Tor Vergata | <em>Summer Semester</em></p>
-
-<hr>
+<p><strong>Uncertainty and Information Economics</strong><br>
+Master | Italian | Held by Daniela Di Cagno<br>
+<em>Summer 2023</em></p>
 
 </details>
