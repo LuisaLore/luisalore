@@ -20,7 +20,7 @@ I am on the job market for the 2025/26 academic year, with an expected graduatio
 
 <!-- **[Download my Job Market Paper](files/jmp.pdf)** -->
 
-## Upcoming Presentations
+### Upcoming JMP Presentations
 
 * **Women in Economics: Brown Bag Seminar Series**, November 7th
 * **PhD - Economics Virtual Seminar: Job Market Seminar Series**, November 13th
