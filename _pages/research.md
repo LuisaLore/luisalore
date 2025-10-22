@@ -31,16 +31,41 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
-<!-- ## Working Papers
+---
 
-**[Paper Title 1](files/paper1.pdf)**  
-(with Co-Author Name)  
-*Abstract*: Brief description...
+## Work in Progress
 
-**[Paper Title 2](files/paper2.pdf)**  
-*Abstract*: Brief description...
+**Field experiment in Credence Goods Markets**  
+(with Rudolf Kerschbamer, Eeva Kujansuu, Daniel Neururer, and Daniel Woods)  
+*Status: Data collection*  
+<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
 
---- -->
+**Encouraging reuse and second-hand consumption**  
+(with Luca Congiu and Mariangela Zoli)  
+*Status: Writing draft*  
+<!-- [[Draft](files/reuse-draft.pdf)] [[Pre-registration](link)] -->
+
+**Metastudy on different measures of Prosociality**  
+(with Adriana Baier, Esther Blanco, and Nathalie Struwe)  
+*Status: Writing draft*  
+<!-- [[Draft](files/prosociality-meta-draft.pdf)] -->
+
+**Consumers' (mis)perception of second-hand clothing**  
+(with Camille Rimbaud)  
+*Status: Designing*  
+<!-- [[Pre-registration](link)] -->
+
+**Biological roots of gender differences: the impact of the menstrual cycle on risk preferences and cognitive fatigue**  
+(with Francesca Marazzi)  
+*Status: Designing*  
+<!-- [[Pre-registration](link)] -->
+
+**Overstating Generosity**  
+(with Werner Güth and Francesca Marazzi)  
+*Status: Data collection*  
+<!-- [[Draft](files/overstating-draft.pdf)] [[Pre-registration](link)] -->
+
+---
 
 <!-- ## Work in Progress
 
@@ -53,11 +78,9 @@ Brief description of the project.
 
 --- -->
 
-<!-- ## Others
+## Others
 
-**Other projects or reports**
-
-**Project Title**  
-Brief description.
-
---- -->
+**Monetary and Non-Monetary Instruments to Guide Individual Waste Management Choices**  
+Beatrice Cesi, Alessio D'Amato, Alberto Iozzi, **Luisa Lorè**, and Mariangela Zoli  
+*Policy Report* (Italian only)  
+[[Available here](https://www.fondazioneamga.org/wp-content/uploads/2023/06/Progetto-IOZZI.pdf)]
