@@ -74,12 +74,9 @@ Master | English | Held by Nicola Campigotto and Matilde Giaccherini | LUISS Gui
 <details>
 <summary>Click to expand</summary>
 
-<h3>Classroom Experiments Manager</h3>
+<h3>Classroom Experiments Project</h3>
 
-<p><strong>LUISS Guido Carli</strong> | Bachelor/Master | Italian/English<br>
-<em>Winter 2020, Summer 2021, Summer 2022, Summer 2023, Summer 2024</em></p>
-
-<p>Managed and coordinated in-class economic experiments for undergraduate and graduate courses, including setup, execution, and data analysis support.</p>
+<p>From Winter 2020 to Summer 2024, I served as Classroom Experiments Manager at <strong>LUISS Guido Carli</strong>, where I managed and coordinated in-class economic experiments for both undergraduate and graduate courses. My role involved experimental design and setup, real-time execution support, and post-experiment data analysis assistance. I primarily utilized <strong>Veconlab</strong> as the main experimental platform, alongside other tools as needed.</p>
 
 </details>
 
