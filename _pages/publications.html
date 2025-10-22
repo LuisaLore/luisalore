@@ -1,36 +1,63 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!--## Job Market Paper
 
-{% include base_path %}
+**[Title of Your JMP](files/jmp.pdf)**  
+*Abstract*: Brief description of the paper (2-3 sentences about what you study and main findings).
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+--- -->
 
+## Publications
 
+**Testing isomorphic invariance across social dilemma games**  
+Irene Maria Buso, Lorenzo Ferrari, Werner Güth, **Luisa Lorè**, Lorenzo Spadoni  
+*Journal of Economic Behavior & Organization*, 223, 1-20, 2024.  
+[[DOI](https://doi.org/10.1016/j.jebo.2024.04.001)]
 
+**True to type? EU-style date marking and the valuation of perishable food**  
+Alessio D'Amato, Timo Goeschl, **Luisa Lorè**, Mariangela Zoli  
+*Food Policy*, 114, 102381, 2023.  
+[[DOI](https://doi.org/10.1016/j.foodpol.2022.102381)]
+
+**Lab-like findings from online experiments**  
+Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa Lorè**, Francesca Marazzi, Luca Panaccione, Lorenzo Spadoni  
+*Journal of the Economic Science Association*, 7(2), 184-193, 2021.  
+[[DOI](https://doi.org/10.1007/s40881-021-00112-1)]
+
+---
+
+<!-- ## Working Papers
+
+**[Paper Title 1](files/paper1.pdf)**  
+(with Co-Author Name)  
+*Abstract*: Brief description...
+
+**[Paper Title 2](files/paper2.pdf)**  
+*Abstract*: Brief description...
+
+--- -->
+
+<!-- ## Work in Progress
+
+**Project Title 1**  
+(with Co-Author Name, if any)  
+Brief description of the project.
+
+**Project Title 2**  
+Brief description of the project.
+
+--- -->
+
+<!-- ## Others
+
+**Other projects or reports**
+
+**Project Title**  
+Brief description.
+
+--- -->
