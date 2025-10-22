@@ -14,13 +14,13 @@ author_profile: true
 ### Academic Year 2025/26
 
 **Nudging** 
-Bachelor | English | University of Innsbruck  
+Bachelor | English | University of Innsbruck
 *Summer & Winter Semesters*
 
 ### Academic Year 2024/25
 
 **Economic Theory** 
-Master | English | University of Innsbruck  
+Master | English | University of Innsbruck
 *Summer Semester*
 
 ---
