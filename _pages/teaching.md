@@ -108,24 +108,4 @@ University of Rome Tor Vergata | *Summer Semester*
 
 <hr>
 
-<h3>Co-supervised Bachelor Theses</h3>
-
-<h4>Academic Year 2021/22</h4>
-<p>B. Ermini: <em>Uno studio sperimentale sullo spreco alimentare domestico: il ruolo degli interventi educativi</em> (An Experimental Study on Household Food Waste: The Role of Educational Interventions)</p>
-
-<h4>Academic Year 2020/21</h4>
-<p>V. Castiglione: <em>L'impatto ambientale dell'industria alimentare: l'efficacia dell'Economia Comportamentale nello sviluppo delle politiche pubbliche</em> (The Environmental Impact of the Food Industry: The Effectiveness of Behavioral Economics in Public Policy Development)</p>
-
-<p>K. Gueorguiev: <em>Le Attività dei Retail Investors nel 2020 e 2021: Il caso americano e il caso italiano a confronto</em> (Retail Investors' Activities in 2020 and 2021: A Comparison Between the American and Italian Cases)</p>
-
-<h4>Academic Year 2019/20</h4>
-<p>A. Tozzi: <em>Politiche di nudging contro il fumo</em> (Nudging Policies Against Smoking)</p>
-
-<hr>
-
-<h3>Other Teaching Experiences</h3>
-
-<p><strong>Classroom Experiments Manager</strong> | Bachelor/Master | English/Italian | LUISS Guido Carli</p>
-<p><em>Academic Years: 2020/21, 2021/22, 2022/23, 2023/24</em></p>
-
 </details>
