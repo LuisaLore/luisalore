@@ -27,8 +27,8 @@ author:
   name             : "Luisa Lorè"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
-  location         : "Innsbruck, Austria"
-  employer         : "University of Innsbruck"
+  location         : "Chicago, USA"
+  employer         : #"University of Innsbruck"
   uri              : # URL
   email            : "Luisa.Lore@uibk.ac.at" 
 
