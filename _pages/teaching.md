@@ -111,6 +111,6 @@ Bachelor | Course: Public Economics | Held by Mariangela Zoli | University of Ro
 
 ## Classroom Experiments Project
 
-From Winter 2020 to Summer 2024, I served as Classroom Experiments Manager at **LUISS Guido Carli**, where I managed and coordinated in-class economic experiments for both undergraduate and graduate courses. My role involved experimental design and setup, providing real-time execution support, and assisting with post-experiment data analysis. I primarily utilized **[Veconlab](https://[veconlab.com])** as the main experimental platform, alongside other tools as needed.
+From Winter 2020 to Summer 2024, I served as Classroom Experiments Manager at **LUISS Guido Carli**, where I managed and coordinated in-class economic experiments for both undergraduate and graduate courses. My role involved experimental design and setup, providing real-time execution support, and assisting with post-experiment data analysis. I primarily utilized **[Veconlab](https://veconlab.com)** as the main experimental platform, alongside other tools as needed.
 
 ---
