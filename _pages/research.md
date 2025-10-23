@@ -7,7 +7,11 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
+{% include base_path %}
 
+All my publications are open access and freely available through the links provided. If you encounter any access issues, please feel free to contact me.
+
+---
 <!--## Job Market Paper
 
 **[Title of Your JMP](files/jmp.pdf)**  
