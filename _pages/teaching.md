@@ -104,7 +104,7 @@ Bachelor | English | Held by Lorenzo Spadoni | LUISS Guido Carli<br>
 <p><strong>Economic Policy</strong><br>
 Bachelor | Italian | Held by Mariangela Zoli | University of Rome Tor Vergata<br>
 <em>Summer 2021</em><br>
-<a href="{{ site.baseurl }}/files/DEF_Politica_Economica_e_Finanziaria_2021.pdf">Oxford Style Debate Topics</a></p>
+<a href="{{ site.baseurl }}/files/DEF_Politica_2021.pdf">Oxford Style Debate Topics</a></p>
 
 <p><strong>Managerial Decision Making</strong><br>
 Master | English | Held by Werner Güth and Vittorio Larocca | LUISS Guido Carli<br>
