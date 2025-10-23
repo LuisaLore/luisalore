@@ -19,8 +19,7 @@ redirect_from:
 
 **[Testing isomorphic invariance across social dilemma games](https://doi.org/10.1016/j.jebo.2024.04.024)**  
 Irene Maria Buso, Lorenzo Ferrari, Werner Güth, **Luisa Lorè**, Lorenzo Spadoni  
-*Journal of Economic Behavior & Organization*, 223, 1-20, 2024.
-
+*Journal of Economic Behavior & Organization*, 223, 1-20, 2024.  
 <details>
 <summary>Abstract</summary>
 
@@ -30,8 +29,7 @@ Irene Maria Buso, Lorenzo Ferrari, Werner Güth, **Luisa Lorè**, Lorenzo Spadon
 
 **[True to type? EU-style date marking and the valuation of perishable food](https://doi.org/10.1016/j.foodpol.2022.102381)**  
 Alessio D'Amato, Timo Goeschl, **Luisa Lorè**, Mariangela Zoli  
-*Food Policy*, 114, 102381, 2023.
-
+*Food Policy*, 114, 102381, 2023.  
 <details>
 <summary>Abstract</summary>
 
@@ -41,8 +39,7 @@ Alessio D'Amato, Timo Goeschl, **Luisa Lorè**, Mariangela Zoli
 
 **[Lab-like findings from online experiments](https://doi.org/10.1007/s40881-021-00114-8)**  
 Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa Lorè**, Francesca Marazzi, Luca Panaccione, Lorenzo Spadoni  
-*Journal of the Economic Science Association*, 7(2), 184-193, 2021.
-
+*Journal of the Economic Science Association*, 7(2), 184-193, 2021.  
 <details>
 <summary>Abstract</summary>
 
@@ -101,7 +98,6 @@ Brief description of the project.
 
 **[Monetary and Non-Monetary Instruments to Guide Individual Waste Management Choices](https://www.fondazioneamga.org/wp-content/uploads/2023/06/Progetto-IOZZI.pdf)**  
 Berardino Cesi, Alessio D'Amato, Alberto Iozzi, **Luisa Lorè**, and Mariangela Zoli  
-
 <details>
 <summary>Abstract</summary>
 
