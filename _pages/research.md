@@ -39,7 +39,7 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 <!-- [[Draft](files/reuse-draft.pdf)] [[Pre-registration](link)] -->
 
 **Metastudy on different measures of Prosociality**  
-(with Alexandra Baier, Esther Blanco, and Nathalie Struwe)  
+(with Alexandra Baier, Esther Blanco, and Natalie Struwe)  
 *Status: Writing draft*  
 <!-- [[Draft](files/prosociality-meta-draft.pdf)] -->
 
