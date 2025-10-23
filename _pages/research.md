@@ -78,7 +78,6 @@ Brief description of the project.
 
 ## Others
 
-**Monetary and Non-Monetary Instruments to Guide Individual Waste Management Choices**  
-Beatrice Cesi, Alessio D'Amato, Alberto Iozzi, **Luisa Lorè**, and Mariangela Zoli  
-*Policy Report* (Italian only)  
-[[Available here](https://www.fondazioneamga.org/wp-content/uploads/2023/06/Progetto-IOZZI.pdf)]
+**[Monetary and Non-Monetary Instruments to Guide Individual Waste Management Choices](https://www.fondazioneamga.org/wp-content/uploads/2023/06/Progetto-IOZZI.pdf)**  
+Berardino Cesi, Alessio D'Amato, Alberto Iozzi, **Luisa Lorè**, and Mariangela Zoli  
+*Policy Report* (Italian only)
