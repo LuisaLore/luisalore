@@ -31,15 +31,15 @@ Master | English | University of Innsbruck<br>
 
 **Best practices in experiments with non-standard subjects**<br>
 Bachelor | English | Course: Research Methods | Held by Francesca Marazzi | University of Rome Tor Vergata<br>
-*Summer Semester*
-<u>Slides available upon request.</u>
+*Summer Semester*<br>
+<u class="spelling">Slides available upon request.</u> 
 
 ### Academic Year 2023/24
 
 **Behavioral Public Policies**<br>
 Bachelor | Italian | Course: Public Economics | Held by Mariangela Zoli | University of Rome Tor Vergata<br>
-*Summer Semester*
-<u>Slides available upon request.</u>
+*Summer Semester*<br>
+<u class="spelling">Slides available upon request.</u> 
 
 ---
 
