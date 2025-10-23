@@ -123,8 +123,8 @@ Bachelor | English | Held by Bruno Chiarini | University of Rome Tor Vergata<br>
 
 <p><strong>Microeconomics</strong><br>
 Bachelor | Italian | Held by Gustavo Piga | University of Rome Tor Vergata<br>
-<em>Summer 2018, Summer 2020, Summer 2021</em><br></p>
-[[Problem Set Summer 2018](files/SARI_Micro_2018.pdf)] [[Problem Set Summer 2020](files/SARI_Micro_2020.pdf)] [[Problem Set Summer 2021](files/SARI_Micro_2021.pdf)]
+<em>Summer 2018, Summer 2020, Summer 2021</em><br>
+<a href="/files/SARI_Micro_2018.pdf">[Problem Set Summer 2018]</a> <a href="/files/SARI_Micro_2020.pdf">[Problem Set Summer 2020]</a> <a href="/files/SARI_Micro_2021.pdf">[Problem Set Summer 2021]</a></p>
 
 <p><strong>Seminar in Experimental Economics</strong><br>
 Master | Italian | Held by Luca Panaccione | University of Rome Tor Vergata<br>
