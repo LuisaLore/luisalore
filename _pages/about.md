@@ -22,5 +22,5 @@ I am on the job market for the 2025/26 academic year, with an expected graduatio
 
 ### Upcoming JMP Presentations
 
-* **Women in Economics: Brown Bag Seminar Series**, November 7th
+* **[Women in Economics: Brown Bag Seminar Series](https://[www.women-in-economics.com/event-details-registration/wie-brown-bag-seminar-1])**, November 7th
 * **PhD - Economics Virtual Seminar: Job Market Seminar Series**, November 13th
