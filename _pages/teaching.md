@@ -111,20 +111,22 @@ Master | English | Held by Werner Güth and Vittorio Larocca | LUISS Guido Carli
 
 <p><strong>Microeconomics</strong><br>
 Bachelor | English | Held by Lorenzo Ferrari | LUISS Guido Carli<br>
-<em>Summer 2020, Summer 2021</em></p>
+<em>Summer 2020, Summer 2021</em><br>
+<a href="{{ site.baseurl }}/files/LUISS_DEF_Micro_2020.pdf">Workbook Summer 2020</a> | <a href="{{ site.baseurl }}/files/LUISS_DEF_Micro_2021.pdf">Workbook Summer 2021</a></p>
 
 <p><strong>Microeconomics</strong><br>
 Bachelor | English | Held by Gustavo Piga | University of Rome Tor Vergata<br>
-<em>Summer 2020, Summer 2021</em></p>
-
-<p><strong>Game Theory</strong><br>
-Bachelor | English | Held by Bruno Chiarini | University of Rome Tor Vergata<br>
-<em>Summer 2020, Summer 2021</em></p>
+<em>Summer 2020, Summer 2021</em><br>
+<a href="{{ site.baseurl }}/files/GG_Micro_2020.pdf">Workbook Summer 2020</a> | <a href="{{ site.baseurl }}/files/GG_Micro_2021.pdf">Workbook Summer 2021</a></p>
 
 <p><strong>Microeconomics</strong><br>
 Bachelor | Italian | Held by Gustavo Piga | University of Rome Tor Vergata<br>
 <em>Summer 2018, Summer 2020, Summer 2021</em><br>
 <a href="{{ site.baseurl }}/files/SARI_Micro_2018.pdf">Workbook Summer 2018</a> | <a href="{{ site.baseurl }}/files/SARI_Micro_2020.pdf">Workbook Summer 2020</a> | <a href="{{ site.baseurl }}/files/SARI_Micro_2021.pdf">Workbook Summer 2021</a></p>
+
+<p><strong>Game Theory</strong><br>
+Bachelor | English | Held by Bruno Chiarini | University of Rome Tor Vergata<br>
+<em>Summer 2020, Summer 2021</em></p>
 
 <p><strong>Seminar in Experimental Economics</strong><br>
 Master | Italian | Held by Luca Panaccione | University of Rome Tor Vergata<br>
