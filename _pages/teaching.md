@@ -18,7 +18,8 @@ Bachelor | English | University of Innsbruck<br>
 
 **Economic Theory**<br>
 Master | English | University of Innsbruck<br>
-*Summer 2025*
+*Summer 2025*<br>
+<a href="{{ site.baseurl }}/files/UIBK_ET_Syllabus.pdf">Syllabus</a> | <a href="{{ site.baseurl }}/files/UIBK_ET_Slides.pdf">Slides</a> | <a href="{{ site.baseurl }}/files/UIBK_ET_Workbook.pdf">Workbook</a>
 
 <p><strong>Behavioral Public Policies</strong><br>
 Bachelor | Italian | University of Rome Tor Vergata<br>
