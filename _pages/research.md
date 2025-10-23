@@ -31,14 +31,7 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 
 ---
 
----
-
 ## Work in Progress
-
-**Field experiment in Credence Goods Markets**  
-(with Rudolf Kerschbamer, Eeva Kujansuu, Daniel Neururer, and Daniel Woods)  
-*Status: Data collection*  
-<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
 
 **Encouraging reuse and second-hand consumption**  
 (with Luca Congiu and Mariangela Zoli)  
@@ -46,12 +39,22 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 <!-- [[Draft](files/reuse-draft.pdf)] [[Pre-registration](link)] -->
 
 **Metastudy on different measures of Prosociality**  
-(with Adriana Baier, Esther Blanco, and Nathalie Struwe)  
+(with Alexandra Baier, Esther Blanco, and Nathalie Struwe)  
 *Status: Writing draft*  
 <!-- [[Draft](files/prosociality-meta-draft.pdf)] -->
 
+**Field experiment in Credence Goods Markets**  
+(with Rudolf Kerschbamer, Essi Kujansuu, Daniel Neururer, and Daniel Woods)  
+*Status: Data collection*  
+<!-- [[Draft](files/credence-goods-draft.pdf)] [[Pre-registration](link)] -->
+
+**Overstating Generosity**  
+(with Werner Güth and Francesca Marazzi)  
+*Status: Data collection*  
+<!-- [[Draft](files/overstating-draft.pdf)] [[Pre-registration](link)] -->
+
 **Consumers' (mis)perception of second-hand clothing**  
-(with Camille Rimbaud)  
+(with Claire Rimbaud)  
 *Status: Designing*  
 <!-- [[Pre-registration](link)] -->
 
@@ -59,11 +62,6 @@ Irene Maria Buso, Daniela Di Cagno, Lorenzo Ferrari, Vittorio Larocca, **Luisa L
 (with Francesca Marazzi)  
 *Status: Designing*  
 <!-- [[Pre-registration](link)] -->
-
-**Overstating Generosity**  
-(with Werner Güth and Francesca Marazzi)  
-*Status: Data collection*  
-<!-- [[Draft](files/overstating-draft.pdf)] [[Pre-registration](link)] -->
 
 ---
 
