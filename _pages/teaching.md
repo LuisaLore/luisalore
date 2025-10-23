@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+I am committed to providing students with well-crafted materials that enhance their learning experience, and to sharing these resources with colleagues in the academic community. You will find all publicly available materials on this page. If you need anything else or have questions, please don't hesitate to reach out.
+
 ---
 
 ## Lecturer
