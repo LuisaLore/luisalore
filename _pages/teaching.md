@@ -28,20 +28,6 @@ Bachelor | University of Rome Tor Vergata<br>
 
 ---
 
-## Invited Lectures
-
-**Best practices in experiments with non-standard subjects**<br>
-Bachelor | Course: Research Methods | Held by Francesca Marazzi | University of Rome Tor Vergata<br>
-*Summer 2025*<br>
-<u class="spelling">Slides available upon request.</u> 
-
-**Behavioral Public Policies**<br>
-Bachelor | Course: Public Economics | Held by Mariangela Zoli | University of Rome Tor Vergata<br>
-*Summer 2024*<br>
-<u class="spelling">Slides available upon request.</u> 
-
----
-
 ## Teaching Assistant
 
 **Game Theory**<br>
@@ -106,6 +92,20 @@ Bachelor | Held by Gianni De Fraja | University of Rome Tor Vergata<br>
 <em>Summer 2020</em></p>
 
 </details>
+
+---
+
+## Invited Lectures
+
+**Best practices in experiments with non-standard subjects**<br>
+Bachelor | Course: Research Methods | Held by Francesca Marazzi | University of Rome Tor Vergata<br>
+*Summer 2025*<br>
+<u class="spelling">Slides available upon request.</u> 
+
+**Behavioral Public Policies**<br>
+Bachelor | Course: Public Economics | Held by Mariangela Zoli | University of Rome Tor Vergata<br>
+*Summer 2024*<br>
+<u class="spelling">Slides available upon request.</u> 
 
 ---
 
