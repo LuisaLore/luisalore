@@ -61,8 +61,8 @@ PhD | English | Held by Rudolf Kerschbamer | University of Innsbruck<br>
 
 **Uncertainty and Information Economics**<br>
 Master | Italian | Held by Daniela Di Cagno | LUISS Guido Carli<br>
-*Summer Semester*
-<p><a href="{{ site.baseurl }}/files/LUISS_EconInfo_2024.pdf">Workbook</a></p>
+*Summer Semester*<br>
+<a href="{{ site.baseurl }}/files/LUISS_EconInfo_2024.pdf">Workbook</a>
 
 **Behavioral Economics and Consumer Decision Making**<br>
 Master | English | Held by Nicola Campigotto and Matilde Giaccherini | LUISS Guido Carli<br>
@@ -96,7 +96,7 @@ Bachelor | Italian | University of Rome Tor Vergata<br>
 
 <p><strong>Uncertainty and Information Economics</strong><br>
 Master | Italian | Held by Daniela Di Cagno | LUISS Guido Carli<br>
-<em>Summer 2023</em>
+<em>Summer 2023</em><br>
 <a href="{{ site.baseurl }}/files/LUISS_EconInfo_2023.pdf">Workbook</a></p>
 
 <p><strong>Microeconomics</strong><br>
