@@ -99,7 +99,8 @@ Master | Italian | Held by Daniela Di Cagno | LUISS Guido Carli<br>
 
 <p><strong>Microeconomics</strong><br>
 Bachelor | English | Held by Lorenzo Spadoni | LUISS Guido Carli<br>
-<em>Winter 2022</em></p>
+<em>Winter 2022</em><br>
+<a href="{{ site.baseurl }}/files/LUISS_SP_Esercitazioni.pdf">Workbook</a> | <a href="{{ site.baseurl }}/files/LUISS_SP_Assignment.pdf">Assignment</a> | <a href="{{ site.baseurl }}/files/LUISS_SP_dofile.do">Dofile Guide</a></p>
 
 <p><strong>Economic Policy</strong><br>
 Bachelor | Italian | Held by Mariangela Zoli | University of Rome Tor Vergata<br>
