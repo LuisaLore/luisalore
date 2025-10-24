@@ -263,10 +263,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _publications
   - scope:
       path: ""
-      type: research
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -353,32 +353,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
-# Exclude from sitemap
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
 
 # HTML Compression
 # - https://jch.penibelst.de/
